@@ -1,0 +1,16 @@
+h1{
+    color: rgb(24, 24, 24);
+    width: fit-content;
+    margin: 20vh auto;
+    background-color: antiquewhite;
+    border: 10px solid wheat;
+    border-radius: 25px;
+    padding: 1rem;
+}
+
+h1:hover{
+    color: antiquewhite;
+    background-color: rgb(24, 24, 24);
+    cursor: pointer;
+    transition: 0.5s ease-in-out;
+}
